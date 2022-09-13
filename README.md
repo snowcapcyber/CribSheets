@@ -7,7 +7,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * The Engagement Lifecycle.
 
-* Questions and Issues when Scoping Out a Security Test.
+* [Questions and Issues when Scoping Out a Security Test.](https://github.com/snowcapcyber/CribSheets/blob/main/Sheets/Scoping-Questions.pdf)
 
 * The Role of the Computer Misuse Act in a Security Test.
 
