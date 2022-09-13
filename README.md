@@ -9,11 +9,11 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [Questions and Issues when Scoping Out a Security Test.](https://github.com/snowcapcyber/CribSheets/blob/main/Sheets/Scoping-Questions.pdf)
 
-* The Role of the Computer Misuse Act in a Security Test.
+* [The Role of the Computer Misuse Act in a Security Test.](https://github.com/snowcapcyber/CribSheets/blob/main/Sheets/CMA1990.pdf)
 
 * The Role of Risk Management in Penetration Testing.
 
-* Introduction to ISO/IEC 27001/27002.
+* [Introduction to ISO/IEC 27001/27002.](https://github.com/snowcapcyber/CribSheets/blob/main/Sheets/ISO27001.pdf)
 
 * Introduction to NIST.
 
