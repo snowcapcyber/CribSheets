@@ -84,6 +84,14 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * How to Use PowerShell on a Security Test (1).
 
+* How to Use PowerShell on a Security Test (2).
+
+* How to Use PowerShell on a Security Test (3).
+
+* How to Use PowerShell on a Security Test (4).
+
+* How to Use PowerShell on a Security Test (5).
+
 * Microsoft Windows Service Privilege Escalation (1).
 
 * Windows Post Exploitation.
