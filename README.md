@@ -3,7 +3,7 @@
 Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub repository. The goal of this repository is to provide you with a some notes that you may find useful when conducting a penetration test.
 
 
-## Engagement Lifecycle and Risk Management
+## Chapter 1 - Engagement Lifecycle and Risk Management
 
 * The Engagement Lifecycle.
 
@@ -19,7 +19,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * Introduction to Penetration Testing Execution Standard
 
-## Core Technologies
+## Chapter 2 - Core Technologies
 
 * IP Protocols and Networking.
 
@@ -33,7 +33,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * Hardware Security
 
-## Networking with TCP/IP
+## Chapter 3 - Networking with TCP/IP
 
 * Introduction to IP.
 
@@ -47,7 +47,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * Port Forwarding.
 
-## Information Gathering
+## Chapter 4 - Information Gathering
 
 * Open Source Intelligence.
 
@@ -65,7 +65,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * Information Leakage.
 
-## Vulnerability Research and Systems Exploitation
+## Chapter 5 - Vulnerability Research and Systems Exploitation
 
 * Using ExploitDB and Metasploit for Vulnerability Research.
 
@@ -74,7 +74,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 * Brute Forcing with HYDRA.
 
 
-## Microsoft Windows Security
+## Chapter 6 - Microsoft Windows Security
 
 * Introduction to Microsoft Windows.
 
@@ -99,7 +99,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 * Windows Post Exploitation.
 
 
-## Unix/Linux Security
+## Chapter 7 - Unix/Linux Security
 
 * Introduction to Unix/Linux.
 
@@ -107,31 +107,33 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * Unix/Linux Privilege Escalation (1).
 
-## Database Security
+## Chapter 8 - Database Security
 
 * Introduction to Database Security.
 
 * Brute Forcing a Data Connection.
 
-## Web Security
+## Chapter 9 - Web Security
 
 * Introduction to Web Security.
 
-## Physical Security
+* OWASP Testing
+
+## Chapter 10 - Physical Security
 
 * Introduction to Physical Security.
 
 * Locks and Tamper Resistance.
 
-## Virtualisation and Containerisation
+## Chapter 11 - Virtualisation and Containerisation
 
 * Introduction to Virtualisation and Containerisation.
 
-## Cloud Security
+## Chapter 12 - Cloud Security
 
 * Introduction to Cloud Security.
 
-## Secure Development Operations
+## Chapter 13 - Secure Development Operations
 
 * Introduction to Secure Development Operations.
 
