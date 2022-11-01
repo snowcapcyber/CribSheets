@@ -17,6 +17,8 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * Introduction to NIST.
 
+* Introduction to Penetration Testing Execution Standard
+
 ## Core Technologies
 
 * IP Protocols and Networking.
