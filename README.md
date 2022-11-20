@@ -7,13 +7,13 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * The Engagement Lifecycle.
 
-* Questions and Issues when Scoping Out a Security Test.
+* [Questions and Issues when Scoping Out a Security Test](https://github.com/snowcapcyber/CribSheets/blob/main/Scripts/Penitration%20Test%20Scoping%20Document%20Crib%20Sheet.pdf).
 
-* The Role of the Computer Misuse Act in a Security Test.
+* [The Role of the Computer Misuse Act in a Security Test](https://github.com/snowcapcyber/CribSheets/blob/main/Scripts/The%20CMA%20Crib%20Sheet.pdf)
 
 * The Role of Risk Management in Penetration Testing.
 
-* Introduction to ISO/IEC 27001/27002.
+* [Introduction to ISO/IEC 27001/27002](https://github.com/snowcapcyber/CribSheets/blob/main/Scripts/Introduction%20to%20ISO2700%20Crib%20Sheet.pdf)
 
 * Introduction to NIST.
 
