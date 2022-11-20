@@ -51,7 +51,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * Open Source Intelligence.
 
-* DNS.
+* The Domain Name System (DNS).
 
 * How to Use the ARPING Command on a Security Test.
 
