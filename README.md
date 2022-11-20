@@ -23,9 +23,9 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * IP Protocols and Networking.
 
-* How to set up the Kali Linux Interface (1).
+* [How to set up the Kali Linux Interface (1)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Kali%20Network%20Configuration%20Crib%20Sheet%201.pdf)
 
-* How to set up the Kali Linux Interface (2).
+* [How to set up the Kali Linux Interface (2)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Kali%20Network%20Configuration%20Crib%20Sheet%202.pdf)
 
 * Patch Management and Build Reviews.
 
