@@ -35,7 +35,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 ## Chapter 3 - Networking with TCP/IP
 
-* Introduction to IP.
+* [Introduction to IP](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20IP%20Crib%20Sheet.pdf)
 
 * Introduction to TCP (1).
 
@@ -45,7 +45,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * Introduction to ICMP.
 
-* Port Forwarding.
+* [Port Forwarding](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Port%20Forwarding%20Crib%20Sheet.pdf)
 
 ## Chapter 4 - Information Gathering
 
@@ -53,21 +53,22 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * The Domain Name System (DNS).
 
-* How to Use the ARPING Command on a Security Test.
+* [How to Use the ARPING Command on a Security Test](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20ARPing%20Command%20Crib%20Sheet.pdf)
 
-* How to Use the TRACEROUTE/TRACERT Commands on a Security Test.
+* [How to Use the TRACEROUTE/TRACERT Commands on a Security Test](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Tracroute%20Crib%20Sheet.pdf)
 
 * How to Use NMAP on a Security Test.
 
-* The ENUM4LINUX Command for Security Testing.
+* [The ENUM4LINUX Command for Security Testing](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20ENUM4LINUX%20Crib%20Sheet.pdf)
 
-* The ENUM4LINUX-NG Command for Security Testing.
+* [The ENUM4LINUX-NG Command for Security Testing](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20ENUM4LINUX-NG%20Crib%20Sheet.pdf)
 
-* Information Leakage.
 
 * [Using WGET to Gather Information](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20WGET%20Crib%20Sheet.pdf)
 
 * [Using SNMP to Gather Information](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20SNMP%20Crib%20Sheet.pdf)
+
+* [Brute Forcing a Connection](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20Hydra%20Crib%20Sheet.pdf)
 
 ## Chapter 5 - Vulnerability Research and Systems Exploitation
 
@@ -84,9 +85,9 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * The Microsoft Windows File System and File System Security.
 
-* How to Use the NET Command on a Security Test (1).
+* [How to Use the NET Command on a Security Test (1)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20NET%20Command%20Crib%20Sheet%201.pdf)
 
-* How to Use the NET Command on a Security Test (2).
+* [How to Use the NET Command on a Security Test (2)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20NET%20Command%20Crib%20Sheet%202.pdf)
 
 * [How to Use PowerShell on a Security Test (1)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20Powershell%20Crib%20Sheet%201.pdf)
 
@@ -98,9 +99,9 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [How to Use PowerShell on a Security Test (5)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20Powershell%20Crib%20Sheet%205.pdf)
 
-* Microsoft Windows Service Privilege Escalation (1).
+* [Microsoft Windows PSEXEC Escalation](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20PSExec%20Pass%20the%20Hash%20Crib%20Sheet.pdf)
 
-* Windows Post Exploitation.
+* [Windows Post Exploitation](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Windows%20Post%20Expliotation%20Crib%20Sheet%201.pdf)
 
 
 ## Chapter 7 - Unix/Linux Security
@@ -109,15 +110,24 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * The Unix/Linux File System and File System Security.
 
-* Unix/Linux Privilege Escalation (1).
+* [Exploiting Showmount](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Showmount%20Crib%20Sheet.pdf)
+
+* [Unix/Linux Privilege Escalation (1)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Unix:Linux%20Privilege%20Escalation%20Crib%20Sheet%201.pdf)
+
+* [Unix/Linux Privilege Escalation (2)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Unix:Linux%20Privilege%20Escalation%20Crib%20Sheet%202.pdf)
 
 ## Chapter 8 - Database Security
 
 * Introduction to Database Security.
 
-* Brute Forcing a Data Connection.
+
+* [MYSQL Crib Sheet](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20MySQL%20Crib%20Sheet.pdf)
 
 * [Using the SQLCMD command](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20SQLCMD%20Crib%20Sheet.pdf)
+
+* [PostgreSQL Crib Sheet](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20PostgreSQL%20Crib%20Sheet.pdf)
+
+* [PostgreSQL and Metasploit](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20PostgreSQL%20and%20Metasploit%20Crib%20Sheet.pdf)
 
 ## Chapter 9 - Web Security
 
