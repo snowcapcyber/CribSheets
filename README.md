@@ -41,9 +41,9 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * Introduction to TCP (2).
 
-* Introduction to UDPl
+* Introduction to UDP.
 
-* Introduction to ICMPl
+* Introduction to ICMP.
 
 * Port Forwarding.
 
@@ -65,7 +65,9 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * Information Leakage.
 
-* Using WGET to Gather Information
+* [Using WGET to Gather Information](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20WGET%20Crib%20Sheet.pdf)
+
+* [Using SNMP to Gather Information](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20SNMP%20Crib%20Sheet.pdf)
 
 ## Chapter 5 - Vulnerability Research and Systems Exploitation
 
@@ -73,7 +75,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * Using Metasploit for Vulnerability Exploitation.
 
-* Brute Forcing with HYDRA.
+* [Brute Forcing with HYDRA.](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20Hydra%20Crib%20Sheet.pdf)
 
 
 ## Chapter 6 - Microsoft Windows Security
@@ -86,15 +88,15 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * How to Use the NET Command on a Security Test (2).
 
-* How to Use PowerShell on a Security Test (1).
+* [How to Use PowerShell on a Security Test (1)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20Powershell%20Crib%20Sheet%201.pdf)
 
-* How to Use PowerShell on a Security Test (2).
+* [How to Use PowerShell on a Security Test (2)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20Powershell%20Crib%20Sheet%202.pdf)
 
-* How to Use PowerShell on a Security Test (3).
+* [How to Use PowerShell on a Security Test (3)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20Powershell%20Crib%20Sheet%203.pdf)
 
-* How to Use PowerShell on a Security Test (4).
+* [How to Use PowerShell on a Security Test (4)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20Powershell%20Crib%20Sheet%204.pdf)
 
-* How to Use PowerShell on a Security Test (5).
+* [How to Use PowerShell on a Security Test (5)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20Powershell%20Crib%20Sheet%205.pdf)
 
 * Microsoft Windows Service Privilege Escalation (1).
 
@@ -114,6 +116,8 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 * Introduction to Database Security.
 
 * Brute Forcing a Data Connection.
+
+* [Using the SQLCMD command](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20SQLCMD%20Crib%20Sheet.pdf)
 
 ## Chapter 9 - Web Security
 
