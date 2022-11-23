@@ -65,6 +65,8 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * Information Leakage.
 
+* Using WGET to Gather Information
+
 ## Chapter 5 - Vulnerability Research and Systems Exploitation
 
 * Using ExploitDB and Metasploit for Vulnerability Research.
