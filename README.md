@@ -57,7 +57,11 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [How to Use the TRACEROUTE/TRACERT Commands on a Security Test](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Tracroute%20Crib%20Sheet.pdf)
 
-* How to Use NMAP on a Security Test.
+* [How to Use NMAP on a Security Test 1](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/NMAP%20%201Crib%20Sheet.pdf)
+
+* [How to Use NMAP on a Security Test 2](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/NMAP%202%20%20Crib%20Sheet.pdf)
+
+* [How to Use NMAP on a Security Test 3](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/NMAP%203%20Crib%20Sheet.pdf)
 
 * [The ENUM4LINUX Command for Security Testing](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20ENUM4LINUX%20Crib%20Sheet.pdf)
 
@@ -72,11 +76,15 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 ## Chapter 5 - Vulnerability Research and Systems Exploitation
 
-* Using ExploitDB and Metasploit for Vulnerability Research.
+* [Using ExploitDB and Metasploit for Vulnerability Research](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/ExploitDB%20and%20Metasploit%20for%20Vulnerability%20Research%20Crib%20Sheet.pdf)
 
-* Using Metasploit for Vulnerability Exploitation.
+* [Using Metasploit for Vulnerability Exploitation](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Meterpreter%20Crib%20Sheet.pdf)
 
 * [Brute Forcing with HYDRA.](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20Hydra%20Crib%20Sheet.pdf)
+
+* [Metasploit and MS08-067 Crib Sheet](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Metasploit%20and%20MS08-067%20Crib%20Sheet.pdf)
+
+* [Metasploit and MS17-010 Crib Sheet](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Metasploit%20and%20MS17-010%20Crib%20Sheet.pdf)
 
 
 ## Chapter 6 - Microsoft Windows Security
@@ -102,6 +110,8 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 * [Microsoft Windows PSEXEC Escalation](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20PSExec%20Pass%20the%20Hash%20Crib%20Sheet.pdf)
 
 * [Windows Post Exploitation](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Windows%20Post%20Expliotation%20Crib%20Sheet%201.pdf)
+
+* [Microsoft Windows Service Privilege Escalation](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Microsoft%20Windows%20Service%20Privilege%20Escalation%20Crib%20Sheet%201.pdf)
 
 
 ## Chapter 7 - Unix/Linux Security
