@@ -57,7 +57,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [How to Use the TRACEROUTE/TRACERT Commands on a Security Test](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Tracroute%20Crib%20Sheet.pdf)
 
-* [How to Use NMAP on a Security Test 1](hhttps://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/NMAP%201%20Crib%20Sheet.pdf)
+* [How to Use NMAP on a Security Test 1](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/NMAP%201%20Crib%20Sheet.pdf)
 
 * [How to Use NMAP on a Security Test 2](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/NMAP%202%20%20Crib%20Sheet.pdf)
 
