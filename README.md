@@ -130,7 +130,6 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * Introduction to Database Security.
 
-
 * [MYSQL Crib Sheet](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20MySQL%20Crib%20Sheet.pdf)
 
 * [Using the SQLCMD command](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20SQLCMD%20Crib%20Sheet.pdf)
@@ -138,6 +137,8 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 * [PostgreSQL Crib Sheet](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20PostgreSQL%20Crib%20Sheet.pdf)
 
 * [PostgreSQL and Metasploit](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20PostgreSQL%20and%20Metasploit%20Crib%20Sheet.pdf)
+
+* Using SQLMap.
 
 ## Chapter 9 - Web Security
 
