@@ -15,9 +15,9 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [Introduction to ISO/IEC 27001/27002](https://github.com/snowcapcyber/CribSheets/blob/main/Scripts/Introduction%20to%20ISO2700%20Crib%20Sheet.pdf)
 
-* Introduction to NIST.
+* Introduction to NIST 800-171
 
-* Introduction to Penetration Testing Execution Standard
+* [Introduction to Penetration Testing Execution Standard](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Penetration%20Testing%20Execution%20Standard.pdf)
 
 ## Chapter 2 - Core Technologies
 
