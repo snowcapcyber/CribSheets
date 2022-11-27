@@ -93,6 +93,8 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * The Microsoft Windows File System and File System Security.
 
+* [Basic MSDOC Commands](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20MSDOS%20Crib%20Sheet.pdf)
+
 * [How to Use the NET Command on a Security Test (1)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20NET%20Command%20Crib%20Sheet%201.pdf)
 
 * [How to Use the NET Command on a Security Test (2)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20NET%20Command%20Crib%20Sheet%202.pdf)
