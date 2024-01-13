@@ -45,7 +45,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * Introduction to ICMP.
 
-* [Introdcution to DNS.]()
+* [Introdcution to the Domain Name Systems (DNS).](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Introduction%20to%20DNS.pdf)
 
 * [How to set up the Kali Linux Interface (1)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Kali%20Network%20Configuration%20Crib%20Sheet%201.pdf)
 
