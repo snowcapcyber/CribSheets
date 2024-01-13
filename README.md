@@ -11,7 +11,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [The Role of the Computer Misuse Act in a Security Test](https://github.com/snowcapcyber/CribSheets/blob/main/Scripts/The%20CMA%20Crib%20Sheet.pdf)
 
-* The Role of Risk Management in Penetration Testing.
+* [The Role of Risk Management in Penetration Testing.](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/RoleofRiskManagementinPenetrationTesting.pdf)
 
 * [Introduction to ISO/IEC 27001/27002](https://github.com/snowcapcyber/CribSheets/blob/main/Scripts/Introduction%20to%20ISO2700%20Crib%20Sheet.pdf)
 
