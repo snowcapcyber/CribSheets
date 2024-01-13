@@ -95,7 +95,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [Introduction to Microsoft Windows](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Microsoft%20Windows%20Operating%20System.pdf)
 
-* The Microsoft Windows File System and File System Security.
+* [The Microsoft Windows File System and File System Security](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Microsoft%20Windows%20File%20System.pdf)
 
 * [Basic MSDOS Commands](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20MSDOS%20Crib%20Sheet.pdf)
 
