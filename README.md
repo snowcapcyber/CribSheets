@@ -21,7 +21,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [IP Protocols and Networking.](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/IP%20Protocols%20and%20Networking.pdf)
 
-* The Microsoft Windows Operating System
+* [The Microsoft Windows Operating System.](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/An%20introduction%20to%20Microsoft%20Windows.pdf)
 
 * The Linux Operating System
 
