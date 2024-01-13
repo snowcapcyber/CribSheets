@@ -144,7 +144,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [PostgreSQL and Metasploit](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20PostgreSQL%20and%20Metasploit%20Crib%20Sheet.pdf)
 
-* Using SQLMap.
+* [Using SQLMap.](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20SQLMAP%20for%20Penetration%20Testing.pdf)
 
 ## Chapter 9 - Web Security
 
