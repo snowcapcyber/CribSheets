@@ -25,7 +25,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [The Linux Operating System](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/An%20Introduction%20to%20the%20Linux%20Operating%20System.pdf)
 
-* Patch Management and Build Reviews.
+* [Patch Management and Build Reviews.](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/An%20Introduction%20to%20Patch%20Management%20and%20Build%20Reviews.pdf)
 
 * [Cryptography](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Crucial%20Role%20and%20Function%20of%20Cryptography%20in%20Information%20Security.pdf)
 
