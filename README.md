@@ -134,7 +134,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 ## Chapter 8 - Database Security
 
-* Introduction to Database Security.
+* [Introduction to Database Security](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Introduction%20to%20Database%20Security.pdf)
 
 * [MYSQL Crib Sheet](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20MySQL%20Crib%20Sheet.pdf)
 
