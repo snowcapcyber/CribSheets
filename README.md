@@ -23,7 +23,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [The Microsoft Windows Operating System.](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/An%20introduction%20to%20Microsoft%20Windows.pdf)
 
-* The Linux Operating System
+* [The Linux Operating System](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/An%20Introduction%20to%20the%20Linux%20Operating%20System.pdf)
 
 * Patch Management and Build Reviews.
 
