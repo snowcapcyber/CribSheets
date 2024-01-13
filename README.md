@@ -5,8 +5,6 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 ## Chapter 1 - Engagement Lifecycle and Risk Management
 
-* The Engagement Lifecycle.
-
 * [Questions and Issues when Scoping Out a Security Test](https://github.com/snowcapcyber/CribSheets/blob/main/Scripts/Penitration%20Test%20Scoping%20Document%20Crib%20Sheet.pdf).
 
 * [The Role of the Computer Misuse Act in a Security Test](https://github.com/snowcapcyber/CribSheets/blob/main/Scripts/The%20CMA%20Crib%20Sheet.pdf)
@@ -15,7 +13,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [Introduction to ISO/IEC 27001/27002](https://github.com/snowcapcyber/CribSheets/blob/main/Scripts/Introduction%20to%20ISO2700%20Crib%20Sheet.pdf)
 
-* Introduction to NIST 800-171
+* [Introduction to NIST 800-171](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Significance%20of%20NIST%20800.pdf)
 
 * [Introduction to Penetration Testing Execution Standard](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Penetration%20Testing%20Execution%20Standard.pdf)
 
