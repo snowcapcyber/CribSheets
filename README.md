@@ -27,7 +27,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * Patch Management and Build Reviews.
 
-* Cryptography
+* [Cryptography](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Crucial%20Role%20and%20Function%20of%20Cryptography%20in%20Information%20Security.pdf)
 
 * Hardware Security
 
