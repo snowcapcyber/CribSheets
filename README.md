@@ -93,7 +93,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 ## Chapter 6 - Microsoft Windows Security
 
-* Introduction to Microsoft Windows.
+* [Introduction to Microsoft Windows](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Microsoft%20Windows%20Operating%20System.pdf)
 
 * The Microsoft Windows File System and File System Security.
 
