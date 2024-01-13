@@ -21,10 +21,6 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [IP Protocols and Networking.](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/IP%20Protocols%20and%20Networking.pdf)
 
-* [How to set up the Kali Linux Interface (1)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Kali%20Network%20Configuration%20Crib%20Sheet%201.pdf)
-
-* [How to set up the Kali Linux Interface (2)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Kali%20Network%20Configuration%20Crib%20Sheet%202.pdf)
-
 * Patch Management and Build Reviews.
 
 * [Cryptography](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Crucial%20Role%20and%20Function%20of%20Cryptography%20in%20Information%20Security.pdf)
@@ -35,6 +31,8 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [Introduction to IP](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20IP%20Crib%20Sheet.pdf)
 
+* [The OSI Network Model]()
+
 * Introduction to TCP (1).
 
 * Introduction to TCP (2).
@@ -42,6 +40,10 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 * Introduction to UDP.
 
 * Introduction to ICMP.
+
+* [How to set up the Kali Linux Interface (1)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Kali%20Network%20Configuration%20Crib%20Sheet%201.pdf)
+
+* [How to set up the Kali Linux Interface (2)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Kali%20Network%20Configuration%20Crib%20Sheet%202.pdf)
 
 * [Port Forwarding](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Port%20Forwarding%20Crib%20Sheet.pdf)
 
