@@ -21,6 +21,10 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [IP Protocols and Networking.](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/IP%20Protocols%20and%20Networking.pdf)
 
+* The Microsoft Windows Operating System
+
+* The Linux Operating System
+
 * Patch Management and Build Reviews.
 
 * [Cryptography](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Crucial%20Role%20and%20Function%20of%20Cryptography%20in%20Information%20Security.pdf)
@@ -31,7 +35,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [Introduction to IP](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20IP%20Crib%20Sheet.pdf)
 
-* [The OSI Network Model]()
+* [The OSI Network Model](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/An%20Exploration%20of%20the%20OSI%20Networking%20Model.pdf)
 
 * Introduction to TCP (1).
 
