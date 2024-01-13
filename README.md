@@ -57,7 +57,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [Open Source Intelligence.](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Introduction%20to%20Open.pdf)
 
-* The Domain Name System (DNS).
+* Using the Domain Name System (DNS).
 
 * [How to Use the ARPING Command on a Security Test](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20ARPing%20Command%20Crib%20Sheet.pdf)
 
