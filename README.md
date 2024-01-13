@@ -19,7 +19,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 ## Chapter 2 - Core Technologies
 
-* IP Protocols and Networking.
+* [IP Protocols and Networking.](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/IP%20Protocols%20and%20Networking.pdf)
 
 * [How to set up the Kali Linux Interface (1)](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Kali%20Network%20Configuration%20Crib%20Sheet%201.pdf)
 
