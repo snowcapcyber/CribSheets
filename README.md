@@ -29,7 +29,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [Cryptography](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Crucial%20Role%20and%20Function%20of%20Cryptography%20in%20Information%20Security.pdf)
 
-* Hardware Security
+* [Hardware Security](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/An%20Introduction%20to%20Hardware%20Security.pdf)
 
 ## Chapter 3 - Networking with TCP/IP
 
