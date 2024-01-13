@@ -53,7 +53,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 ## Chapter 4 - Information Gathering
 
-* Open Source Intelligence.
+* [Open Source Intelligence.](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Introduction%20to%20Open.pdf)
 
 * The Domain Name System (DNS).
 
