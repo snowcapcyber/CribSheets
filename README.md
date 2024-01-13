@@ -37,9 +37,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [The OSI Network Model](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/An%20Exploration%20of%20the%20OSI%20Networking%20Model.pdf)
 
-* Introduction to TCP (1).
-
-* Introduction to TCP (2).
+* [Introduction to TCP.](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Transmission%20Control%20Protocol.pdf)
 
 * Introduction to UDP.
 
