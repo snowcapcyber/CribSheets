@@ -178,7 +178,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 ## Chapter 13 - Secure Development Operations
 
-* Introduction to Secure Development Operations.
+* [Introduction to Secure Development Operations](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Secure%20Development%20Operations.pdf)
 
 ## Recommended Reading
 
