@@ -150,9 +150,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 ## Chapter 9 - Web Security
 
-* Introduction to Web Security.
-
-* OWASP Testing
+* [Introduction to Web Security](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Web%20Security%20Testing.pdf)
 
 ## Chapter 10 - Physical Security
 
