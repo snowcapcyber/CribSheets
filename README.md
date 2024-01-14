@@ -1,6 +1,6 @@
 # Crib-Sheets
 
-Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub repository. The goal of this repository is to provide you with a some notes that you may find useful when conducting a penetration test.
+Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub repository. The goal of this repository is to provide you with a some notes that you may find useful when conducting a penetration test, or undertaking certification such as [CTM](https://thecyberscheme.org/check-exams/) or [OSCP](https://help.offsec.com/hc/en-us/articles/360040165632-OSCP-Exam-Guide).
 
 
 ## Chapter 1 - Engagement Lifecycle and Risk Management
