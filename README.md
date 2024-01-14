@@ -170,7 +170,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [AWS Security](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/AWS%20Security%20Testing.pdf)
 
-* Azure Security
+* [Azure Security](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Azure%20Security%20Testing.pdf)
 
 * GPC Security
 
