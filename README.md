@@ -162,7 +162,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 ## Chapter 11 - Virtualisation and Containerisation
 
-* Introduction to Virtualisation and Containerisation.
+* [Introduction to Virtualisation and Containerisation](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Virtualization%20and%20Containerization.pdf)
 
 ## Chapter 12 - Cloud Security
 
