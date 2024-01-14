@@ -51,7 +51,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [Port Forwarding](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Port%20Forwarding%20Crib%20Sheet.pdf)
 
-* WiFi Security
+* [WiFi Security](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/WiFI.pdf)
 
 ## Chapter 4 - Information Gathering
 
