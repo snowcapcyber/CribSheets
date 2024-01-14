@@ -122,7 +122,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 ## Chapter 7 - Unix/Linux Security
 
-* Introduction to Unix/Linux.
+* [Introduction to Unix/Linux](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Linux%20%20Operating%20System.pdf)
 
 * [The Unix/Linux File System and File System Security](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Linux%20Operating%20File%20System.pdf)
 
