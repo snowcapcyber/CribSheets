@@ -164,7 +164,15 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 ## Chapter 12 - Cloud Security
 
-* Introduction to Cloud Security.
+* [Introduction to Cloud Security](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Cloud%20Security.pdf)
+
+* Cloud Security Standards
+
+* AWS Security
+
+* Azure Security
+
+* GPC Security
 
 ## Chapter 13 - Secure Development Operations
 
