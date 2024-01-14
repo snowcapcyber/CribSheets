@@ -158,7 +158,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [Introduction to Physical Security](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Physical%20Security.pdf)
 
-* Locks and Tamper Resistance.
+* [Locks and Tamper Resistance]()
 
 ## Chapter 11 - Virtualisation and Containerisation
 
