@@ -124,7 +124,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * Introduction to Unix/Linux.
 
-* The Unix/Linux File System and File System Security.
+* [The Unix/Linux File System and File System Security](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Linux%20Operating%20File%20System.pdf)
 
 * [Exploiting Showmount](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Showmount%20Crib%20Sheet.pdf)
 
