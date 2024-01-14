@@ -172,7 +172,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [Azure Security](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Azure%20Security%20Testing.pdf)
 
-* GPC Security
+* [Google Cloud Platform (GCP) Security](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Google%20Cloud%20Platform.pdf)
 
 ## Chapter 13 - Secure Development Operations
 
