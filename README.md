@@ -156,7 +156,7 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 ## Chapter 10 - Physical Security
 
-* Introduction to Physical Security.
+* [Introduction to Physical Security]()
 
 * Locks and Tamper Resistance.
 
