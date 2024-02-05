@@ -121,6 +121,8 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [Microsoft Windows Service Privilege Escalation](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Microsoft%20Windows%20Service%20Privilege%20Escalation%20Crib%20Sheet%201.pdf)
 
+* [Microsoft AD profiling]()
+
 
 ## Chapter 7 - Unix/Linux Security
 
