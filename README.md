@@ -73,7 +73,6 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 
 * [The ENUM4LINUX-NG Command for Security Testing](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20ENUM4LINUX-NG%20Crib%20Sheet.pdf)
 
-
 * [Using WGET to Gather Information](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20WGET%20Crib%20Sheet.pdf)
 
 * [Using SNMP to Gather Information](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/Using%20SNMP%20Crib%20Sheet.pdf)
@@ -129,6 +128,8 @@ Welcome to the [SnowCap Cyber](https://www.snowcapcyber.com) crib-sheet GitHub r
 * [Introduction to Unix/Linux](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Linux%20%20Operating%20System.pdf)
 
 * [The Unix/Linux File System and File System Security](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Linux%20Operating%20File%20System.pdf)
+
+* [Exploiting NFS](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/NFSSheet.pdf)
 
 * [Exploiting Showmount](https://github.com/snowcapcyber/CribSheets-for-Penetration-Testing/blob/main/Scripts/The%20Showmount%20Crib%20Sheet.pdf)
 
